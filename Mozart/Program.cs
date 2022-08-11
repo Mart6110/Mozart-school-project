@@ -99,7 +99,7 @@ namespace Mozart
             String[] menuettArray = listMenuetts.ToArray();
             String[] trioArray = listTrios.ToArray();
 
-            // When I comeback to this code look up how to do this a better way.
+            
             string[] musicArray = { menuettArray[0], trioArray[0], menuettArray[1], trioArray[1], menuettArray[2], trioArray[2], menuettArray[3], trioArray[3], menuettArray[4], trioArray[4], menuettArray[5], trioArray[5], menuettArray[6], trioArray[6], menuettArray[7], trioArray[7], menuettArray[8], trioArray[8], menuettArray[9], trioArray[9], menuettArray[10], trioArray[10], menuettArray[11], trioArray[11], menuettArray[12], trioArray[12], menuettArray[13], trioArray[13], menuettArray[14], trioArray[14], menuettArray[15], trioArray[15] };
 
 
